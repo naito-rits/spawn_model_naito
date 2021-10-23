@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+    <node name="spawn_model" pkg="spawn_model" type="spawn_model_obj_pos_fix.py" output="screen" cwd="node" /> 
+</launch>
